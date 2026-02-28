@@ -14,7 +14,7 @@
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #c1c1c1; border-radius: 4px; }
         html { scroll-behavior: smooth; }
       <video id="video2-video2" class="absolute top-0 left-0 w-full h-full object-cover z-0" muted loop>
-        <source src="" type="video2/mp4">
+        <source src="https://github.com/Priyalpatel16/Debug/raw/refs/heads/main/Video2.mp4" type="video2/mp4">
     </video>
     </style>
 </head>

@@ -13,6 +13,9 @@
         .custom-scrollbar::-webkit-scrollbar-track { background: #f1f1f1; border-radius: 4px; }
         .custom-scrollbar::-webkit-scrollbar-thumb { background: #c1c1c1; border-radius: 4px; }
         html { scroll-behavior: smooth; }
+      <video id="video2-video2" class="absolute top-0 left-0 w-full h-full object-cover z-0" muted loop>
+        <source src="" type="video2/mp4">
+    </video>
     </style>
 </head>
 <body class="bg-gray-100 font-sans text-gray-800 pb-10">
